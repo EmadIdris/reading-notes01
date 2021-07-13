@@ -6,8 +6,8 @@
 
 Name | Link 
 -----| -----
-Growth Mindset | []()
-Github         | []()
-MarkDown       | []()
-VCS            | []()
-Read02         | []()
+Growth Mindset | [Go To](https://emadidris.github.io/reading-notes01/GrowthMindset)
+Github         | [Go To](https://emadidris.github.io/reading-notes01/Github)
+MarkDown       | [Go To](https://emadidris.github.io/reading-notes01/MarkDown)
+VCS            | [Go To](https://emadidris.github.io/reading-notes01/VCS)
+Read02         | [Go To](https://emadidris.github.io/reading-notes01/Read02)
